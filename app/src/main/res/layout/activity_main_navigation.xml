@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.erostech.digga.MainNavigationActivity">
+    tools:context="com.erostech.digga.ui.activities.MainNavigationActivity">
 
     <FrameLayout
         android:id="@+id/content"
